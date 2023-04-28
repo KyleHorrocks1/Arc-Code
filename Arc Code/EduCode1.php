@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-<title>Arc Code</title>
+<title>EduCode</title>
 <meta charset='UTF-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <link rel='stylesheet' href='https://www.w3schools.com/w3css/4/w3.css'>
@@ -54,7 +54,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Lato', sans-serif}
 
 <!-- Header -->
 <header class='w3-container w3-blue w3-center w3-bar-block' style='padding:250px 20px'>
-  <h1 class='w3-margin w3-jumbo w3-text-black';><b>Arc Code</b></h1>
+  <h1 class='w3-margin w3-jumbo w3-text-black';><b>EduCode</b></h1>
   <p class='w3-xlarge w3-text-black'><b>Learn Java & Python!!!</b></p><br>
   <a class='w3-button w3-black w3-hide-small w3-round w3-hide-medium w3-center' href='/exercises/index.php' style='font-size:17px;margin-top:-9px;margin-left:12px' title='Exercises'>Get Started</a>
 </header>
@@ -67,7 +67,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Lato', sans-serif}
   <div class='w3-content'>
     <div class='w3-twothird'>
       <h2>About Us</h2>
-      <p class='w3-text-grey'>Arc Code is here to help beginner and intermediate programmers, it can teach you the skills you need to program in Java and Python from the ground up. Each topic explains how and when you use various programming concepts, then you are provided with the opportunity to demonstrate the new information you have learned through fill-in-the-gap coding activities.</p>
+      <p class='w3-text-grey'>EduCode is here to help beginner and intermediate programmers, it can teach you the skills you need to program in Java and Python from the ground up. Each topic explains how and when you use various programming concepts, then you are provided with the opportunity to demonstrate the new information you have learned through fill-in-the-gap coding activities.</p>
     </div>
     <div class='w3-third w3-center'>
       <img src='images\logo.png' alt='Logo' style='width:250px;height:250px;'>
@@ -84,7 +84,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Lato', sans-serif}
 
     <div class='w3-twothird'>
       <h2>Why Us?</h2>
-      <p class='w3-text-grey'>Practical application of programming skills is the most effective way to learn to code, which is why Arc Code provides many opportunities to put concepts to use in fill-in-the-blank activies. Users are provided feedback on which areas of their answer are wrong through clear error messages, to teach users how to read them effectively and encourage the users to correct their own code. Additionally, as Python and Java are two of the most popular languages used by programmers today, with 48% and 33% of marketshare respectfully, being familiar with these particular languages gives our users the best start to programming we can give them.<br>
+      <p class='w3-text-grey'>Practical application of programming skills is the most effective way to learn to code, which is why EduCode provides many opportunities to put concepts to use in fill-in-the-blank activies. Users are provided feedback on which areas of their answer are wrong through clear error messages, to teach users how to read them effectively and encourage the users to correct their own code. Additionally, as Python and Java are two of the most popular languages used by programmers today, with 48% and 33% of marketshare respectfully, being familiar with these particular languages gives our users the best start to programming we can give them.<br>
         We carefully tailors the learning experience to the user, through the use of checkpoint tests which the user can take at anytime to recieve reccommendations on topics they can work on. When the user first opens the site they can either take an aptitude test, and be given specialised topics to revise and practise or they can start learning their chosen language from scratch. The activities the users has completed are stored on their profile for them to view topics they have struggled on, and identify areas for improvement on their own if they wish.</p>
     </div>
   </div>
@@ -103,7 +103,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Lato', sans-serif}
       <a class='w3-button w3-black w3-hide-small w3-round w3-hide-medium w3-left' href='#about us' style='font-size:17px;margin-top:-9px;margin-left:12px' title='About Us'>ABOUT US</a>
        </div><br><br><br><br>
        <p class='w3-medium w3-text-white'>
-       The comprehensive and cutting-edge website Arc Code was created to offer those wishing to improve their skills and knowledge with high-quality education, training, and mini-games.<br>Arc Code provides a comprehensive selection of tutorials and courses in Java and Python.<br>Students can learn whenever and wherever they want because of the website’s accessibility and ease of use.<br>It is designed to make it a more friendly experience by having mini-games built into the website.</p></footer>
+       The comprehensive and cutting-edge website EduCode was created to offer those wishing to improve their skills and knowledge with high-quality education, training, and mini-games.<br>EduCode provides a comprehensive selection of tutorials and courses in Java and Python.<br>Students can learn whenever and wherever they want because of the website’s accessibility and ease of use.<br>It is designed to make it a more friendly experience by having mini-games built into the website.</p></footer>
 </div>
 
 <script>
